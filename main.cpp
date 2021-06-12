@@ -4,7 +4,10 @@
 #include <iostream>
 
 int main(){
-    std::cout<<"hellowowrdl;"
+    std::cout<<"hello world";
+
+
+
     return 0;
 
 };
